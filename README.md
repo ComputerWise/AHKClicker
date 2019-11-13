@@ -9,9 +9,10 @@ Created for a client who accesses their computer using a single switch, this sim
 ## Installation and Usage
 
 1. Install [AutoHotkey](https://www.autohotkey.com/)
-2. Clone this project to your computer
-3. Open _AHKClicker.ahk_ or _AHKClicker_RB.ahk_  
+2. Clone this project to your computer  
    `git clone https://github.com/ComputerWise/AHKClicker.git`
+3. Open _AHKClicker.ahk_ or _AHKClicker_RB.ahk_
+
 4. To activate:  
    _AHKClicker.ahk_: Hold left mouse  
    _AHKClicker_RB.ahk_: Right click
@@ -19,5 +20,5 @@ Created for a client who accesses their computer using a single switch, this sim
 
 ## To Do
 
-  * Add more user settings such as shortcut combination
-  * Add context awareness for tabs
+- Add more user settings such as shortcut combination
+- Add context awareness for tabs
