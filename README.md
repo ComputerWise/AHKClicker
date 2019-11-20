@@ -1,6 +1,6 @@
 # AutoHotkey Clicker
 
-Created for a client who accesses their computer using a single switch, this simple AHK script allows users to perform more complex tasks and macros using a single mouse button/switch. Once started, the GUI is hidden by default and can be toggled with a button press/switch.
+Created for a client who accesses their computer using a joystick and a single switch, this simple AHK script allows users to perform more complex tasks and macros using a single mouse button/switch. Once started, the GUI is hidden by default and can be toggled with a button press/switch.
 
 ## Screenshot
 
